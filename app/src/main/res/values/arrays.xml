@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="harrypotter">
+        <item>해리포터</item>
+        <item>론위즐리</item>
+        <item>헤르미온느</item>
+        <item>도비</item>
+        <item>네빌</item>
+        <item>말포이</item>
+    </string-array>
+
+    <string-array name="harry">
+        <item>[필수]선택하세요.</item>
+        <item>볼드모트</item>
+        <item>스네이프</item>
+        <item>내기니</item>
+        <item>벨라트릭스</item>
+        <item>루시우스 말포이</item>
+        <item>피터 페티그루</item>
+        <item>드레이코 말포</item>
+        <item>바티 크라우치 2</item>
+        <item>빈센트 크레이브</item>
+        <item>안토닌 돌로호브</item>
+
+
+    </string-array>
+
+</resources>
